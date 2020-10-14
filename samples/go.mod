@@ -54,3 +54,5 @@ replace gocloud.dev/pubsub/rabbitpubsub => ../pubsub/rabbitpubsub
 replace gocloud.dev/runtimevar/etcdvar => ../runtimevar/etcdvar
 
 replace gocloud.dev/secrets/hashivault => ../secrets/hashivault
+
+// a comment
