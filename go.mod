@@ -17,10 +17,10 @@ module gocloud.dev
 go 1.12
 
 require (
-	cloud.google.com/go v0.58.0
+	cloud.google.com/go v0.61.0
 	cloud.google.com/go/firestore v1.3.0
 	cloud.google.com/go/pubsub v1.4.0
-	cloud.google.com/go/storage v1.9.0
+	cloud.google.com/go/storage v1.10.0
 	contrib.go.opencensus.io/exporter/aws v0.0.0-20190807220307-c50fb1bd7f21
 	contrib.go.opencensus.io/exporter/stackdriver v0.13.1
 	contrib.go.opencensus.io/integrations/ocsql v0.1.6
@@ -37,7 +37,7 @@ require (
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/golang/protobuf v1.4.2
-	github.com/google/go-cmp v0.4.1
+	github.com/google/go-cmp v0.5.1
 	github.com/google/go-replayers/grpcreplay v1.0.0
 	github.com/google/go-replayers/httpreplay v0.1.1
 	github.com/google/martian v2.1.1-0.20190517191504-25dcb96d9e51+incompatible // indirect
@@ -45,20 +45,20 @@ require (
 	github.com/google/wire v0.4.0
 	github.com/googleapis/gax-go v2.0.2+incompatible
 	github.com/googleapis/gax-go/v2 v2.0.5
+	github.com/hashicorp/vault/api v1.0.4 // indirect
 	github.com/lib/pq v1.7.0
 	github.com/mattn/go-ieproxy v0.0.1 // indirect
 	github.com/mitchellh/mapstructure v1.3.2 // indirect
-	go.opencensus.io v0.22.3
-	golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9
-	golang.org/x/net v0.0.0-20200602114024-627f9648deb9
+	go.opencensus.io v0.22.4
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/net v0.0.0-20200707034311-ab3426394381
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
+	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
 	golang.org/x/sys v0.0.0-20200610111108-226ff32320da // indirect
-	golang.org/x/tools v0.0.0-20200610052024-8d7dbee4c8ae // indirect
 	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
-	google.golang.org/api v0.26.0
-	google.golang.org/genproto v0.0.0-20200610104632-a5b850bcf112
-	google.golang.org/grpc v1.29.1
+	google.golang.org/api v0.29.0
+	google.golang.org/genproto v0.0.0-20200728010541-3dc8dca74b7b
+	google.golang.org/grpc v1.30.0
 )
 
 // a comment
