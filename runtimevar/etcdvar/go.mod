@@ -45,7 +45,7 @@ require (
 	go.uber.org/multierr v1.1.0 // indirect
 	go.uber.org/zap v1.10.0 // indirect
 	gocloud.dev v0.20.0
-	google.golang.org/grpc v1.29.1
+	google.golang.org/grpc v1.30.0
 )
 
 replace gocloud.dev => ../../

@@ -18,7 +18,7 @@ go 1.12
 
 require (
 	cloud.google.com/go v0.58.0
-	cloud.google.com/go/firestore v1.2.0
+	cloud.google.com/go/firestore v1.3.0
 	cloud.google.com/go/pubsub v1.4.0
 	cloud.google.com/go/storage v1.9.0
 	contrib.go.opencensus.io/exporter/aws v0.0.0-20190807220307-c50fb1bd7f21

@@ -17,7 +17,7 @@ module gocloud.dev/internal/contributebot
 go 1.12
 
 require (
-	cloud.google.com/go/pubsub v1.4.0
+	cloud.google.com/go/pubsub v1.5.0
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/google/go-cmp v0.4.1
 	github.com/google/go-github v17.0.0+incompatible
